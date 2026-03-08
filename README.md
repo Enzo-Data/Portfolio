@@ -119,7 +119,7 @@ Statut :
 
 🐍 4 - Analyse de base de données (Python)
 
-(lien) 
+(Lien) 
 
 Exploration d’un dataset de la plateforme de streaming Netflix.
 
@@ -145,6 +145,8 @@ Statut :
 Projet d’analyse basé sur des données publiques d’interventions de pompiers.
 
 Ce projet est directement lié à mon ancienne expérience professionnelle.
+
+(Lien) 
 
 Objectif - Analyser : 
 - Les types d’interventions les plus fréquents
