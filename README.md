@@ -18,11 +18,13 @@ Construire plusieurs projets d’analyse de données afin de développer mes com
 
 🧰 Compétences en développement
 
+
 📊 Analyse de données:
 - Nettoyage et préparation des données
 - Analyse exploratoire
 - Interprétation des données
 - Data storytelling
+
 
 💻 Outils :
 - Excel
@@ -30,6 +32,7 @@ Construire plusieurs projets d’analyse de données afin de développer mes com
 - Python
 - Power BI
 - Tableau
+
 
 📈 Visualisation :
 - Création de dashboards interactifs
@@ -41,7 +44,6 @@ Construire plusieurs projets d’analyse de données afin de développer mes com
 📂 Projets Portfolio
 
 Les projets ci-dessous sont en cours de développement dans le cadre de mon apprentissage en Data Analyst.
-
 Chaque projet vise à répondre à une problématique métier réelle.
 
 ⸻
