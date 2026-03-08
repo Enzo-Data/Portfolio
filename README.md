@@ -10,7 +10,7 @@ Aujourd'hui, je souhaite appliquer cette même logiques dans le domaine de l’a
 
 ⸻
 
-# 🎯 Mon objectif : 
+## 🎯 Mon objectif : 
 
 Construire plusieurs projets d’analyse de données afin de développer mes compétences et constituer un portfolio solide pour trouver une alternance en Data Analyst.
 
