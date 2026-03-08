@@ -1,4 +1,4 @@
-# Enzo Lacordaire - Portfolio
+# Portfolio
 
 Bonjour, moi c’est Enzo
 
