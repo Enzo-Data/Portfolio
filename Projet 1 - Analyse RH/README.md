@@ -10,7 +10,7 @@ L'objectif est de transformer des données RH en **insights exploitables** grâc
 
 ## Dashboard
 
-![Dashboard](Image/Capture_d'écran.png)
+![Dashboard](Images/Capture_d'écran.png)
 
 Ce dashboard interactif permet d'analyser :
 
