@@ -10,7 +10,8 @@ L'objectif est de transformer des données RH en **insights exploitables** grâc
 
 ## Dashboard
 
-[Dashboard](Images/Dashboard.png)
+Aperçu : [Dashboard](Images/Dashboard.png) 
+Excel : [Dashboard](Dashboard/Analyse_RH_Excel_Projet.xlsx) 
 
 Ce dashboard interactif permet d'analyser :
 
