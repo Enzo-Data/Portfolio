@@ -54,7 +54,7 @@ Ces informations peuvent aider les équipes RH à améliorer la rétention des t
 Une analyse complète du projet est disponible dans le rapport :
 
 Rapport/Projet détaillé.pdf
-[Rapport](Rapport/Projet_détaillé.pdf)
+[Rapport](Rapport/Projet_detaille.pdf)
 
 Ce rapport détaille :
 
