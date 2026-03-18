@@ -50,7 +50,7 @@ Chaque projet vise à répondre à une problématique métier réelle.
 
 ### 🗃️ 1 - Dashboard RH (Excel)
 
-[Projet 1](https://github.com/Enzo-Data/PORTFOLIO/tree/main/Projet%201%20%-%20Analyse%20RH)
+[Projet 1](https://github.com/Enzo-Data/PORTFOLIO/tree/main/Projet%201%20-%20Analyse%20RH)
 
 Création d’un tableau de bord RH afin d’analyser la gestion des employés.
 
